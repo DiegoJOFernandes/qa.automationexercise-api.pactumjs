@@ -12,7 +12,7 @@ Este repositório contém a automação de testes de API utilizando o framework 
 
 Certifique-se de ter os seguintes itens instalados em sua máquina antes de começar:
 
-- **Node.js** (versão 18 ou superior)
+- **Node.js** (versão 21 ou superior)
 - **NPM** ou **Yarn**
 
 ---
@@ -22,7 +22,7 @@ Certifique-se de ter os seguintes itens instalados em sua máquina antes de come
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/qa.automationexercise-api.pactumjs.git
+   git clone https://github.com/DiegoJOFernandes/qa.automationexercise-api.pactumjs.git
    cd qa.automationexercise-api.pactumjs
    ```
 
