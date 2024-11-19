@@ -1,7 +1,3 @@
-Aqui está um exemplo completo do arquivo `README.md` para o projeto:
-
----
-
 # **QA Automation Exercise - API Testing**
 
 Este repositório contém a automação de testes de API utilizando o framework **Pactum.js**. As APIs testadas estão listadas em [Automation Exercise API](https://automationexercise.com/api_list).
